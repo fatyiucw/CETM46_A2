@@ -19,4 +19,6 @@ library(ranger)
 5. Press the "Run app" button on the top right corner of the frame containing the R codes
 6. You can try to test the detection by inport the sample.csv in folder app/data in the "predit" tab of the webapp
 
-
+Folder Structure
+app\ contains the source code of the webapp
+ML_scripts contains the source code of the model training
