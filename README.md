@@ -22,3 +22,5 @@ library(ranger)
 Folder Structure
 app\ contains the source code of the webapp
 ML_scripts contains the source code of the model training
+
+\n the web app was deployed in https://yiuchiwai.shinyapps.io/threat_detection/
