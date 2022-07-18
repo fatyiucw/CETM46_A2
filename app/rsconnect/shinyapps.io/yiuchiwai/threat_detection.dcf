@@ -1,0 +1,13 @@
+name: threat_detection
+title: threat_detection
+username:
+account: yiuchiwai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6654652
+bundleId: 6106010
+url: https://yiuchiwai.shinyapps.io/threat_detection/
+when: 1658090699.25153
+lastSyncTime: 1658090699.25153
+asMultiple: FALSE
+asStatic: FALSE
